@@ -72,7 +72,7 @@ The main physical components of this layout are:
 - Record similar measurements for comparison.
   
 ## CALCULATION & TABULATION
-<img width="926" height="1600" alt="WhatsApp Image 2026-05-16 at 14 28 05" src="https://github.com/user-attachments/assets/6c60d0fd-ded3-4e80-a275-c8e2dadef1cc" />
+<img width="1127" height="1245" alt="WhatsApp Image 2026-05-16 at 2 31 46 PM" src="https://github.com/user-attachments/assets/21ee2b5e-eba5-469b-91de-9bbda0a45166" />
 
 <img width="1918" height="1078" alt="Screenshot 2026-05-16 140947" src="https://github.com/user-attachments/assets/efbdf988-781d-4f7e-81dc-6469743721c8" />
 
